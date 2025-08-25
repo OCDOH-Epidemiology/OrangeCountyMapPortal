@@ -1,0 +1,379 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.680483,
+                    41.351847
+                ]
+            },
+            "properties": {
+                "name": "The Sentinel of Port Jervis",
+                "address": "2247 Greenville Turnpike Port Jervis,NY 12771",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Adult Care Facility"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.566563,
+                    41.401819
+                ]
+            },
+            "properties": {
+                "name": "Carlucci Homes, Inc.",
+                "address": "Carlucci Homes, Inc. Port Jervis,NY 12771",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Adult Care Facility"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.420498,
+                    41.441126
+                ]
+            },
+            "properties": {
+                "name": "Promenade at Middletown",
+                "address": "70 Fulton Street Middletown,NY 10940",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Adult Care Facility"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.420285,
+                    41.447782
+                ]
+            },
+            "properties": {
+                "name": "The Eliot at Erie Station ALP",
+                "address": "10 - 18 John Street Middleotown, NY 10940",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Adult Care Facility"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.348652,
+                    41.450494
+                ]
+            },
+            "properties": {
+                "name": "Braemar Living at Wallkill",
+                "address": "21 Riverside Drive Middletown, NY 10941",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Adult Care Facility"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.318215,
+                    41.384717
+                ]
+            },
+            "properties": {
+                "name": "Glen Arden, Inc.",
+                "address": "214 Harriman Drive Goshen,NY 10924",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Adult Care Facility"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.061808,
+                    41.479746
+                ]
+            },
+            "properties": {
+                "name": "New Windsor Country Inn",
+                "address": "450 Temple Hill Road P.O. Box 4328 New Windsor NY 12553",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Adult Care Facility"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.186407,
+                    41.190067
+                ]
+            },
+            "properties": {
+                "name": "Promenade at Tuxedo Place",
+                "address": "40 Hospital Road Tuxedo,NY 10987",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Adult Care Facility"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.682118,
+                    41.367674
+                ]
+            },
+            "properties": {
+                "name": "St. Josephs Place",
+                "address": "160 East Main Street Port Jervis,NY 12771",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Nursing Home"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.418137,
+                    41.453689
+                ]
+            },
+            "properties": {
+                "name": "Highland Rehabilitation and Nursing Center",
+                "address": "120 Highland Avenue Middletown,NY 10940",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Nursing Home"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.383012,
+                    41.451386
+                ]
+            },
+            "properties": {
+                "name": "Middletown Park Rehabilitation & Health Care Center",
+                "address": "121 Dunning Road Middletown,NY 10940",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Nursing Home"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.280293,
+                    41.453834
+                ]
+            },
+            "properties": {
+                "name": "Campbell Hall Rehabilitation Center Inc",
+                "address": "23 Kiernan Rd Campbell Hall,NY 10916",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Nursing Home"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.239873,
+                    41.54552
+                ]
+            },
+            "properties": {
+                "name": "Montgomery Nursing and Rehabilitation Center",
+                "address": "2817 Albany Post Road, Box 158 Montgomery,NY 12549",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Nursing Home"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.086964,
+                    41.525973
+                ]
+            },
+            "properties": {
+                "name": "Sapphire Nursing at Meadow Hill",
+                "address": "172 Meadow Hill Road Newburgh,NY 12550",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Nursing Home"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.320611,
+                    41.386785
+                ]
+            },
+            "properties": {
+                "name": "Sapphire Nursing and Rehab at Goshen",
+                "address": "46 Harriman Drive Goshen,NY 10924",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Nursing Home"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.317829,
+                    41.384923
+                ]
+            },
+            "properties": {
+                "name": "Glen Arden Inc",
+                "address": "214 Harriman Drive Goshen,NY 10924",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Nursing Home"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.366779,
+                    41.356516
+                ]
+            },
+            "properties": {
+                "name": "The Valley View Center for Nursing Care and Rehabilitation",
+                "address": "2 Glenmere Cove Road Goshen, NY 10924",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Nursing Home"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.359303,
+                    41.263115
+                ]
+            },
+            "properties": {
+                "name": "Schervier Pavilion",
+                "address": "22 Van Duzer Place Warwick,NY 10990",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Nursing Home"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.682092,
+                    41.367746
+                ]
+            },
+            "properties": {
+                "name": "Bon Secours Community Hospital",
+                "address": "160 East Main Street Port Jervis,NY 12771",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.368147,
+                    41.441841
+                ]
+            },
+            "properties": {
+                "name": "Garnet Health Medical Center",
+                "address": "707 East Main Street Middletown,NY 10940",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.014495,
+                    41.503419
+                ]
+            },
+            "properties": {
+                "name": "St Luke's Cornwall Hospital",
+                "address": "70 Dubois Street Newburgh,NY 12550",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.357236,
+                    41.261675
+                ]
+            },
+            "properties": {
+                "name": "St Anthony Community Hospital",
+                "address": "15 Maple Avenue Warwick,NY 10990",
+                "narcanlocation": "",
+                "hours": "",
+                "location_type": "Hospital"
+            }
+        }
+    ]
+}

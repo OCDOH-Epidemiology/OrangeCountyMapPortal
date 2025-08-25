@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Orange County Map</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+
+    <!-- Mapbox CSS and JS -->
+    <link href="https://api.mapbox.com/mapbox-gl-js/v3.14.0/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v3.14.0/mapbox-gl.js"></script>
+
+    <!-- Mapbox Geocoder -->
+    <script
+        src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v5.0.0/mapbox-gl-geocoder.min.js"></script>
+    <link rel="stylesheet"
+        href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v5.0.0/mapbox-gl-geocoder.css">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Lordicon for markers -->
+    <script src="https://cdn.lordicon.com/lordicon.js"></script>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="map"></div>
+
+    <!-- Legend -->
+    <div id="legend">
+        <h4 style="text-align: center;">Legend</h4>
+        <div>
+            <lord-icon src="https://cdn.lordicon.com/bpmglzll.json" trigger="hover" state="hover-jump-roll"
+                colors="primary:#16c72e"
+                style="width:50px;height:50px;display:inline-block;vertical-align:middle;"></lord-icon>
+            Adult Care Facility
+        </div>
+        <div>
+            <lord-icon src="https://cdn.lordicon.com/bpmglzll.json" trigger="hover" state="hover-jump-roll"
+                colors="primary:#e83a30"
+                style="width:50px;height:50px;display:inline-block;vertical-align:middle;"></lord-icon>
+            Nursing Home
+        </div>
+        <div>
+            <lord-icon src="https://cdn.lordicon.com/bpmglzll.json" trigger="hover" state="hover-jump-roll"
+                colors="primary:#3080e8"
+                style="width:50px;height:50px;display:inline-block;vertical-align:middle;"></lord-icon>
+            Hospital
+        </div>
+    </div>
+
+    <!-- Checkboxes for marker visibility -->
+    <div
+        style="position: absolute; top: 10px; right: 10px; background: white; padding: 10px; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); z-index: 1000;">
+        <label><input type="checkbox" id="oc-locations-checkbox" checked> Show Orange County Locations</label>
+    </div>
+
+    <!-- Custom JavaScript -->
+    <script src="map.js"></script>
+</body>
+
+</html>
